@@ -66,7 +66,7 @@ The objective was to transform raw IPL match data into a simple, interactive and
 
 
 📷 Dashboard Preview
-
+https://github.com/Sweety555514/Indian-Premier-League-Analysis_Excel-Dashboard/blob/main/Dashboard.png
 
 📚 Key Learning
 
